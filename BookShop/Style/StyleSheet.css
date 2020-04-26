@@ -1,0 +1,122 @@
+﻿.redHeader {
+    display: block;
+    width: 100%;
+    background-color: orangered;
+}
+
+.headerLogo {
+    width: 170px;
+    float: left;
+    padding: 6px 0 0 0;
+}
+
+.searchBar {
+    margin: 25px 0 0 5px;
+    width: 503px;
+    float: left;
+    position: relative
+}
+
+.searchInput {
+    width: 100%;
+    float: left;
+}
+
+.blackHeader {
+    display: block;
+    width: 100%;
+    background-color: #221e1f;
+}
+
+.goHome {
+    background: url(../Images/General/home.jpg) no-repeat top left;
+    width: 25px;
+    height: 23px;
+}
+
+body {
+    font: normal 12px Tahoma, Geneva, sans-serif;
+    color: #404040;
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    font: bolder 14px Tahoma, Geneva, sans-serif;
+}
+
+.booksByCategory ul {
+    list-style-type: none; /*no bullets*/
+    margin: 0 6px 0 0;
+    padding: 0 0 15px 0;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em; /* relative to the text size */
+    margin-block-end: 1em;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+input {
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark-color(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    -webkit-appearance: textfield;
+    background-color: -internal-light-dark-color(white, black);
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 0px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+
+.searchButton {
+    background-position: right center;
+    width: 26px;
+    height: 22px;
+    float: left;
+    position: absolute;
+    top: 2px;
+    right: 5px;
+    z-index: 1; /*stack order of an element*/
+    cursor: pointer;
+    border: 0;
+    background: 0 0;
+}
+
+.leftSide {
+    width: 245px;
+    float: left;
+}
+
+.rightSide {
+    width: 805px;
+    float: right;
+    border-left: 1px solid #e8e8e8;
+    padding-left: 25px;
+    margin-bottom: 20px;
+}
+
+.clearfloat {
+    clear: both;
+}
+
+.rightSideAds > img {
+    height: 280px;
+    width: 803px;
+}

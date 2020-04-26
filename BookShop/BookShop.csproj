@@ -67,6 +67,74 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\Books\9780062381781.jpg" />
+    <Content Include="Images\Books\9780062857613.jpg" />
+    <Content Include="Images\Books\9780062975072.jpg" />
+    <Content Include="Images\Books\9780062975089.jpg" />
+    <Content Include="Images\Books\9780062975096.jpg" />
+    <Content Include="Images\Books\9780062978929.jpg" />
+    <Content Include="Images\Books\9780099262671.jpg" />
+    <Content Include="Images\Books\9780099570332.jpg" />
+    <Content Include="Images\Books\9780099578611.jpg" />
+    <Content Include="Images\Books\9780099590088.jpg" />
+    <Content Include="Images\Books\9780099592419.jpg" />
+    <Content Include="Images\Books\9780099908401.jpg" />
+    <Content Include="Images\Books\9780128197127.jpg" />
+    <Content Include="Images\Books\9780141345659.jpg" />
+    <Content Include="Images\Books\9780143028574.jpg" />
+    <Content Include="Images\Books\9780143034667.jpg" />
+    <Content Include="Images\Books\9780143423904.jpg" />
+    <Content Include="Images\Books\9780143428848.jpg" />
+    <Content Include="Images\Books\9780316229241.jpg" />
+    <Content Include="Images\Books\9780316418249.jpg" />
+    <Content Include="Images\Books\9780316556347.jpg" />
+    <Content Include="Images\Books\9780440244400.jpg" />
+    <Content Include="Images\Books\9780525537205.jpg" />
+    <Content Include="Images\Books\9780593127506.jpg" />
+    <Content Include="Images\Books\9781101985816.jpg" />
+    <Content Include="Images\Books\9781250120427.jpg" />
+    <Content Include="Images\Books\9781250130334.jpg" />
+    <Content Include="Images\Books\9781250133731.jpg" />
+    <Content Include="Images\Books\9781408809938.JPG" />
+    <Content Include="Images\Books\9781408850251.jpg" />
+    <Content Include="Images\Books\9781408855652.jpg" />
+    <Content Include="Images\Books\9781408855676.jpg" />
+    <Content Include="Images\Books\9781408855683.jpg" />
+    <Content Include="Images\Books\9781408855713.jpg" />
+    <Content Include="Images\Books\9781492663997.jpg" />
+    <Content Include="Images\Books\9781524854638.jpg" />
+    <Content Include="Images\Books\9781604339055.jpg" />
+    <Content Include="Images\Books\9781847920270.jpg" />
+    <Content Include="Images\Books\9781848133235.jpg" />
+    <Content Include="Images\Books\9781904233886.jpg" />
+    <Content Include="Images\Books\9788193665251.jpg" />
+    <Content Include="Images\Books\9789351768449.jpg" />
+    <Content Include="Images\Books\9789380658742.jpg" />
+    <Content Include="Images\Books\9789381626344.jpg" />
+    <Content Include="Images\Books\notavailable.gif" />
+    <Content Include="Images\BoxSets\9780007428533.jpg" />
+    <Content Include="Images\BoxSets\9780007477159.jpg" />
+    <Content Include="Images\BoxSets\9780007538041.jpg" />
+    <Content Include="Images\BoxSets\9780007591374.jpg" />
+    <Content Include="Images\BoxSets\9780007839438.jpg" />
+    <Content Include="Images\BoxSets\9780147515001.jpg" />
+    <Content Include="Images\BoxSets\9780448464961.jpg" />
+    <Content Include="Images\BoxSets\9782014101409.jpg" />
+    <Content Include="Images\FeaturedAuthors\arundhatistory_647_100316054702.jpg" />
+    <Content Include="Images\FeaturedAuthors\dillian.jpg" />
+    <Content Include="Images\FeaturedAuthors\download.jpg" />
+    <Content Include="Images\FeaturedAuthors\dr-shashi-tharoor-2.jpg" />
+    <Content Include="Images\FeaturedAuthors\gayle-forman.jpg" />
+    <Content Include="Images\FeaturedAuthors\ma10_milestones_segal.jpg" />
+    <Content Include="Images\FeaturedAuthors\stephan-coonts.jpg" />
+    <Content Include="Images\FeaturedAuthors\stephen-edwin-king.jpg" />
+    <Content Include="Images\FeaturedAuthors\sylvia2.jpg" />
+    <Content Include="Images\General\34_inr.jpg" />
+    <Content Include="Images\General\35_inr.jpg" />
+    <Content Include="Images\General\home.jpg" />
+    <Content Include="Images\General\logo-new.png" />
+    <Content Include="Pages\index.html" />
+    <Content Include="Style\StyleSheet.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -81,6 +149,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
